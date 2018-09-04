@@ -1,6 +1,6 @@
 <?php
 
-	$conn = mysqli_connect("localhost", "root", "","register");  
+	$conn = mysqli_connect("localhost", "root", "","register") or die(mysqli_err());  
 
 	@$name=$_POST['username'];
 	@$pass=$_POST['password'];
