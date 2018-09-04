@@ -1,0 +1,24 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/register.css">
+</head>
+<body>
+	<font style=" font-family:cursive; font-size: 75px; padding-left: 550px; color: white;text-shadow: 2px 2px #192a56;">Blog<font style=" color: yellow;">.</font>Me</font>
+	<form name="form" action="register.php" method="post">
+	<div class="container"></div>
+	<div class="table">
+		<font style=" font-family:Impact; font-size: 75px; text-align: center; color: white;text-shadow: 2px 2px #ff0000;">Register</font><br>
+		<input type="text" placeholder="username" name="username"><br>
+		<input type="password" placeholder="password" name="password"><br>
+		<input type="password" placeholder="confirm password" name="cpassword"><br>
+		<input type="submit" value="Register" name="button" class="log"><br>
+	</div>
+	<div class="error"></div>
+		</form>
+</body>
+</html>
