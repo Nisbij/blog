@@ -1,0 +1,45 @@
+body{ background-color: white;
+	width: 964.8px;
+		 }
+
+
+}
+
+.title{ position: absolute;
+		top: 10%;
+	
+}
+
+.container{ position: absolute;
+	background-color: black;
+			top: 30%;
+			left: 20%;
+			height: 800px;
+			width: 900px;
+			border-radius: 20px 20px 20px 20px;
+			
+}
+
+.data{
+		padding-top: 15%;
+		padding-left: 10%;
+		height:50px;
+		width: 600px;
+
+}
+input{
+		height: 45px;
+		width: 650px;
+		font-size: 18px;
+		margin-bottom: 30px;
+		border-radius: 20px 20px 20px 20px;
+}
+
+.log{
+		color: white;
+		background-color: #2ecc71;
+		width: 200px;
+		 
+}
+
+
