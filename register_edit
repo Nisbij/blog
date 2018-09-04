@@ -1,0 +1,38 @@
+body{ background-image: url("Resources1/bg.12.png");
+		top: 10%
+		right: 30%;}
+
+.container{ position: absolute;
+		height: 450px;
+		width:400px;
+		top: 30%;
+		left: 35%;
+		border: 6px solid white;
+		background-color: black;
+		border-radius: 100px 100px 100px 100px;
+		opacity: 0.2
+		}
+
+
+.table{ position: absolute;
+		height: 700px;
+		width: 640px;
+		top: 35%;
+		left: 38%;
+		border-radius: 70px 70px 70px 70px;
+		text-shadow: 0 0 4px black;}
+
+input{ height: 45px;
+		width: 300px;
+		font-size: 18px;
+		margin-bottom: 20px;
+		padding-left: 15px;
+		text-align: center; 
+		border-radius: 70px 70px 70px 70px;}
+
+.log{ color: white;
+		background-color: #2ecc71 }
+
+font{ padding-left: 35px; }
+
+.redirect{ padding-left: 50px; }
