@@ -12,6 +12,6 @@
  		header("location:Login 01.html");
 	}else
 	{  
-		echo "Could not insert record: ". mysqli_error($conn);  
+		echo "Could not insert record: ";  
 	}	
 ?>
