@@ -22,33 +22,6 @@ body{
 		top: 30%;
 		}
 
-.photo{ position: absolute;
-		background-color: black;
-		height: 350px;
-		width: 100%;
-		top: 150%;
-		
-}
-
-
-
-.diary_entry{ position: absolute;
-				background-color: black;
-				height: 100%;
-				width: 100%;
-				padding-top: 300px;
-				color: white; 
-				font-family: Cookie;
-				font-size: 45px;
-				padding-left: 200px;}
-
-.diary_edit{
-			border: 3px solid white;
-			width: 80%;
-			border-radius: 20px 20px 20px 20px;
-			padding-left: 170px; 
-}
-
 
 
 
