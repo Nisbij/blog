@@ -4,17 +4,20 @@ body{
 		
 }
 
-.direction{position: absolute;
-	padding-top: 250px;
-	padding-left: 50px;
-
-
-}
 .coverphoto{position: absolute;
 		height: 180px;
 		width: 100%;
 		background-color: black;
 }
+
+.photo{ position: absolute;
+		background-color: black;
+		height: 350px;
+		width: 100%;
+		top: 150%;
+		
+}
+
 
 .link{ position: absolute;
 		height: 59px;
